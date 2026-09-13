@@ -1,6 +1,6 @@
 <div align="center">
 
-# Training R Programming
+# R Programming Training
 # 📊📘✨
 
 ### Interactive Jupyter Notebooks for Learning R Fundamentals
