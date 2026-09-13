@@ -76,6 +76,12 @@ Stanford Data Ocean is a serverless precision-medicine education platform create
 
 This GitHub repository is maintained by **Sadra Hatami** as a convenient place to study, practice, and share these introductory R notebooks.
 
+This course follows the same SDO path as:
+
+- [Python Programming Training](https://github.com/sadra-hatami/Python-Programming-Training)
+- [AI and Machine Learning Training](https://github.com/sadra-hatami/AI-ML-Training)
+- [Bioinformatics Training](https://github.com/sadra-hatami/Bioinformatics-Training)
+
 ---
 
 # 🚀 Why This Repository?
